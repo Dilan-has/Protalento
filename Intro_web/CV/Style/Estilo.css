@@ -1,0 +1,81 @@
+body {
+    background-color: #562540;
+}
+
+li {
+    margin-left: -1rem;
+    align-items: center;
+    padding: 10px;
+}
+
+dd {
+    margin-left: 0rem;
+    padding: 10px;
+}
+
+dt {
+    font-weight: bold;
+    font-size: 1.2rem;
+    padding: 10px;
+}
+
+.title {
+    margin-left: 9rem;
+    color: #ECE6E5;
+}
+
+.image-profile {
+    width: 15rem;
+    height: 15rem;
+    border-radius: 50%;
+    margin-left: 4rem;
+}
+
+.name {
+    width: 24rem;
+    color: #ECE6E5;
+}
+
+.PersonalInfo1 {
+    max-width: 30rem;
+    display: grid;
+    justify-content: center;
+    margin-left: 32rem;
+
+}
+
+.PersonalInfo {
+    max-width: 28rem;
+    display: grid;
+    justify-content: center;
+    background-color: #f9738e;
+    margin-left: 18rem;
+    border-radius: 2%;
+    box-shadow: 40px 30px 5px #b14b6b;
+    margin-bottom: 300px;
+    
+}
+
+.InfoLis {}
+
+.skills {
+    background-color: #f9738e;
+    max-width: 30rem;
+    display: grid;
+    justify-content: center;
+    margin-left: 50rem;
+    margin-top: -57.36rem;
+    border-radius: 2%;
+    box-shadow: 40px 30px 5px #b14b6b;
+    
+}
+
+.icons {
+    width: 40px;
+    height: 40px;
+}
+
+#sql_img {
+    width: 60px;
+    height: 40px;
+}
