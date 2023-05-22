@@ -16,6 +16,8 @@ footer {
 
 a {
     padding: 1rem;
+    color: blue;
+    text-decoration: none;
 }
 
 
@@ -72,6 +74,10 @@ a {
     justify-content: center;
     padding: 2rem;
     margin-bottom: 0rem;
+}
+
+.fter :hover{
+    font-size: 150%;
 }
 
 .final {
